@@ -1,0 +1,3 @@
+Readme.txt
+
+This is my code for the Javascript Begineer's Course by Udacity
