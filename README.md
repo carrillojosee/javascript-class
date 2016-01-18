@@ -1,0 +1,2 @@
+# javascript-class
+new file
